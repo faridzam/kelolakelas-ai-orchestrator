@@ -7,6 +7,7 @@ export const repositoryNames = [
   'academic',
   'identity',
   'billing',
+  'chat',
 ] as const;
 
 export { complexityValues } from '../types/complexity.js';
